@@ -1,6 +1,6 @@
 const CompanionsLibrary = () => {
   return (
-    <dit CompanionsLibrary</div>
+    <div> CompanionsLibrary</div>
   )
 }
 
