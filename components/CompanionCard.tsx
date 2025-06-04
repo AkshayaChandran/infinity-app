@@ -29,7 +29,7 @@ const CompanionCard = ({ id, name, topic, subject, duration, color }: CompanionC
           <p className="texsm">{duration} minutes</p>
         </div>
 
-        <Link href={'/companions/${id}'}>
+        <Link href={`/companions/${id}`}>
           <button className="btn-primary w-full justify-center">
             Launch Lesson
           </button>
